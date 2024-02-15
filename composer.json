@@ -1,0 +1,19 @@
+{
+    "name": "indra-basuki/approval",
+    "description": "Libarary Untuk Universal Approval System",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IndraBasuki\\Approval\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "indra",
+            "email": "47154580+indr622@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
